@@ -22,12 +22,16 @@
     margin: 0.3rem;
     align-items: center;
 }
-a{
-    margin: 1rem;
-}
 
 .logo{
     height: 5rem;
     width: 5rem;
     margin:  -1.4rem 0rem 0rem -1.8rem;
+}
+
+.ball{
+    border-radius: 0.9rem;
+    width: 1rem;
+    height: 1rem;
+    background: var(--blue-button);
 }
