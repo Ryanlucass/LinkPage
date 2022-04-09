@@ -1,0 +1,33 @@
+/* Criando os botões */
+
+.button{
+    display: flex;
+    justify-content: space-between;
+    background: var(--blue-button);
+    padding: 2rem;
+    padding-right: 2.5rem;
+    padding-left: 2.5rem;
+    margin: .6rem;
+}
+
+
+.links{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.link{
+    display: flex;
+    margin: 0.3rem;
+    align-items: center;
+}
+a{
+    margin: 1rem;
+}
+
+.logo{
+    height: 5rem;
+    width: 5rem;
+    margin:  -1.4rem 0rem 0rem -1.8rem;
+}
