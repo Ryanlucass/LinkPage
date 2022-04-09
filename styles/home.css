@@ -30,8 +30,22 @@
 }
 
 .ball{
+    display: flex;
+    margin-right: 5rem;
+    margin-left: -4.5rem;
+}
+.ball.top{
     border-radius: 0.9rem;
     width: 1rem;
     height: 1rem;
     background: var(--blue-button);
+}
+.ball div:nth-child(1){
+    background: var(--red);
+}
+.ball div:nth-child(2){
+    background: var(--yelow);
+}
+.ball div:nth-child(3){
+    background: var(--gren);
 }

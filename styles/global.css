@@ -10,6 +10,12 @@ html{
     --blue:  #1A083D;
     --blue-button: #694FB2;
 
+
+    /*--ball color--*/
+    --red:#FF5757;
+    --yelow:#FFDE59;
+    --gren:#7ED957;
+
     font-size: 70.5%;
 }
 
