@@ -8,8 +8,14 @@
     padding-right: 2.5rem;
     padding-left: 2.5rem;
     margin: .6rem;
+
+    color: black;   
+    transition: filter .3s;
 }
 
+button:hover, .button:hover{
+    filter: brightness(1.4);
+}
 
 .links{
     display: flex;

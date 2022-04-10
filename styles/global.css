@@ -5,7 +5,6 @@
     text-decoration: none;
     box-sizing: border-box;
 }
-
 html{
     --blue:  #1A083D;
     --blue-button: #694FB2;
@@ -27,7 +26,6 @@ body{
 
 body, button, textarea{
     font-size: clamp(14px, 1.6rem, 2vw);
-
     font-family: 'Poppins', sans-serif;
 }
 
@@ -36,6 +34,7 @@ button, .button{
     border-radius: 0.9rem;
     height: 6rem;
     width: 25rem;
+
 }
 
 
