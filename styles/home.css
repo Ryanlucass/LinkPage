@@ -4,6 +4,8 @@
     display: flex;
     justify-content: space-between;
     background: var(--blue-button);
+    opacity: 0.9;
+
     padding: 2rem;
     padding-right: 2.5rem;
     padding-left: 2.5rem;
