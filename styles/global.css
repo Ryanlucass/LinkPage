@@ -8,20 +8,24 @@
 html{
     --blue:  #1A083D;
     --blue-button: #694FB2;
-
+    --black: #464761;
 
     /*--ball color--*/
     --red:#FF5757;
     --yelow:#FFDE59;
     --gren:#7ED957;
 
-    font-size: 70.5%;
+     font-size: min(57.6%, 90%); 
+    /* height: min(75vh,100vh); */
 }
 
 body{
     display: flex;
     height: 100vh;
-    background: var(--blue) no-repeat;
+    background-image: url("/assets/passaros.jpg");
+    background-size: cover;
+
+    backdrop-filter: blur(4px);
 }
 
 body, button, textarea{
@@ -42,7 +46,6 @@ button, .button{
     display: flex;
     align-items: center;
     flex-direction: column;
-
-    width: 100%;
     margin: auto;
 }
+
