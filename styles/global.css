@@ -22,8 +22,9 @@ html{
 body{
     display: flex;
     height: 100vh;
-    background-image: url("/assets/passaros.jpg");
+    background: no-repeat;
     background-size: cover;
+    background-image: url("https://3.bp.blogspot.com/-1-EI-hYRRqc/Xd2zFunH65I/AAAAAAAARyU/9lC8yiPTk04zG8t5lIbIc3A-tIwqKxBvwCLcBGAsYHQ/w919-h516-p-k-no-nu/sunrise-illustration-digital-art-uhdpaper.com-4K-4.1963-wp.thumbnail.jpg");
 
     backdrop-filter: blur(4px);
 }
