@@ -10,13 +10,11 @@ html{
     --blue-button: #694FB2;
     --black: #464761;
 
-    /*--ball color--*/
     --red:#FF5757;
     --yelow:#FFDE59;
     --gren:#7ED957;
 
      font-size: min(57.6%, 90%); 
-    /* height: min(75vh,100vh); */
 }
 
 body{
