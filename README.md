@@ -1,11 +1,11 @@
-# Página de Link 
+<h1 align="center">link Page</h1>
 
-![image](https://user-images.githubusercontent.com/70205320/162636253-c03d0a97-117b-4b31-a95f-584a1542acf3.png)
+> Uma landpage simples e responsiva, mostrando as principais informações para contato. 
+
+![image](/assets/linkPage.png)
 ---
+> Como o objetivo era deixar no ar com o github pages, só foi usado HTML e CSS para estilização
 
-<p>Criando uma página de link responsiva para unificação de redes sociais</p>
-
----
- # 💻Tecnologias
-- [x] **HTML**
-- [x] **CSS**
+ ### Tecnologias
+- HTML
+- CSS
