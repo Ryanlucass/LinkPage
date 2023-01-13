@@ -1,4 +1,4 @@
-<h1 align="center">link Page</h1>
+# link Page
 
 > Uma landpage simples e responsiva, mostrando as principais informações para contato. 
 
